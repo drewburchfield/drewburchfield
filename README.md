@@ -43,22 +43,27 @@ Previously founded [Aloompa](https://aloompa.com) (two acquisitions) · Head of 
 
 ## 🤖 Agentic Development
 
-[**agentic-setup**](https://github.com/drewburchfield/agentic-setup) — Two years of daily work with AI coding agents, distilled into a reproducible system. Philosophy, workflows, and the full stack for running four agents off a shared toolkit rather than four separate configs.
+[**agentic-setup**](https://github.com/drewburchfield/agentic-setup) — Two years of daily work with AI coding agents, distilled into a reproducible system.
 
-- [**65 plugins**](https://github.com/drewburchfield/agentic-setup/blob/main/inventory/plugins.md) · [**78 skills**](https://github.com/drewburchfield/agentic-setup/blob/main/inventory/skills.md) · [**15 MCP servers**](https://github.com/drewburchfield/agentic-setup/blob/main/inventory/mcp-servers.md) · [**CLI tools**](https://github.com/drewburchfield/agentic-setup/blob/main/inventory/clis.md) · [**Apps & infrastructure**](https://github.com/drewburchfield/agentic-setup/blob/main/inventory/apps.md)
+Four harnesses share one skill library. Three models review every hard problem in parallel. Security gates run at every commit and every PR. A personal knowledge vault with semantic search is wired into every session. The full stack is documented and reproducible.
 
-[**not-my-job**](https://github.com/drewburchfield/not-my-job) — Claude Code plugin marketplace I built. One install, ten plugins. The two that changed how I work:
+- [**Workflows**](https://github.com/drewburchfield/agentic-setup/blob/main/workflows/README.md) · [**77 skills**](https://github.com/drewburchfield/agentic-setup/blob/main/inventory/skills.md) · [**65 plugins**](https://github.com/drewburchfield/agentic-setup/blob/main/inventory/plugins.md) · [**15 MCP servers**](https://github.com/drewburchfield/agentic-setup/blob/main/inventory/mcp-servers.md) · [**CLI tools**](https://github.com/drewburchfield/agentic-setup/blob/main/inventory/clis.md) · [**Apps & infra**](https://github.com/drewburchfield/agentic-setup/blob/main/inventory/apps.md)
+
+Key tools I built for this:
 
 - 🧠 [**braintrust**](https://github.com/drewburchfield/braintrust) — Gemini, Codex, and Claude in parallel on the same prompt. Second opinions on architecture, cross-model code review, parallel research.
-- 🏗️ [**project-bootstrap**](https://github.com/drewburchfield/project-bootstrap) — Auto-detect language, set up quality tooling, `/quality-gate` for agent-driven PR review cycles before merge.
+- 🏗️ [**project-bootstrap**](https://github.com/drewburchfield/project-bootstrap) — Auto-detect language, set up quality tooling, `/quality-gate` for agent-driven PR review with Devin.ai.
+- All ten plugins live in [**not-my-job**](https://github.com/drewburchfield/not-my-job), my Claude Code plugin marketplace.
 
 <details>
-<summary><strong>Other plugins in the marketplace</strong></summary>
+<summary><strong>Full plugin list</strong></summary>
 
 <br>
 
 | | Plugin | What It Does |
 |:--:|--------|-------------|
+| 🧠 | [braintrust](https://github.com/drewburchfield/braintrust) | Gemini, Codex, and Claude in parallel for second opinions, architecture review, research |
+| 🏗️ | [project-bootstrap](https://github.com/drewburchfield/project-bootstrap) | Auto-detect language, quality tooling, agent-driven PR review cycles |
 | 🎫 | [helpscout-navigator](https://github.com/drewburchfield/helpscout-navigator) | Guides AI through correct Help Scout MCP tool selection and sequencing |
 | 🤝 | [happenstance-navigator](https://github.com/drewburchfield/happenstance-navigator) | Network intelligence: deep search, warm intros, meeting prep, batch prospecting |
 | 💸 | [subscription-cleanse](https://github.com/drewburchfield/subscription-cleanse) | Subscription audit combining bank CSV parsing with Gmail reconnaissance |
