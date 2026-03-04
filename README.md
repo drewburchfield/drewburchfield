@@ -11,7 +11,7 @@ Previously founded [Aloompa](https://aloompa.com) (two acquisitions) · Head of 
 <table>
 <tr>
 <td width="30">🎫</td>
-<td width="220"><a href="https://github.com/drewburchfield/help-scout-mcp-server"><b>help-scout-mcp-server</b></a><br><img src="https://img.shields.io/github/stars/drewburchfield/help-scout-mcp-server?style=flat-square&label=%E2%98%85" alt="stars"></td>
+<td width="220"><a href="https://github.com/drewburchfield/help-scout-mcp-server"><b>help-scout-mcp-server</b></a><br><img src="https://api.drewburchfield.com/github/badge/drewburchfield/help-scout-mcp-server" alt="stars"></td>
 <td>Production MCP servers and plugins for Help Scout, in use by enterprise support teams you'd recognize. Works with any MCP-compatible client. One-click install via Desktop Extensions. <a href="https://github.com/drewburchfield/helpscout-navigator">Claude Cowork plugin</a> for guided tool selection and session hooks. <a href="https://www.npmjs.com/package/help-scout-mcp-server">npm</a> · <a href="https://hub.docker.com/r/drewburchfield/help-scout-mcp-server">Docker Hub</a>. Optional PII redaction.</td>
 </tr>
 <tr>
