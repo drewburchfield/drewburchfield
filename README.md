@@ -47,7 +47,7 @@ Previously founded [Aloompa](https://aloompa.com) (two acquisitions) · Head of 
 
 Four harnesses share one skill library. Three models review every hard problem in parallel. Security gates run at every commit and every PR. A personal knowledge vault with semantic search is wired into every session. The full stack is documented and reproducible.
 
-- [**Workflows**](https://github.com/drewburchfield/agentic-setup/blob/master/workflows/README.md) · [**77 skills**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/skills.md) · [**65 plugins**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/plugins.md) · [**15 MCP servers**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/mcp-servers.md) · [**CLI tools**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/clis.md) · [**Apps & infra**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/apps.md)
+- [**Workflows**](https://github.com/drewburchfield/agentic-setup/blob/master/workflows/README.md) · [**77 skills**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/skills.md) · [**65 plugins**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/plugins.md) · [**10+ MCP servers**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/mcp-servers.md) · [**CLI tools**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/clis.md) · [**Apps & infra**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/apps.md)
 
 Key tools I built for this:
 
