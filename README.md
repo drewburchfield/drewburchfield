@@ -17,7 +17,7 @@ Previously founded [Aloompa](https://aloompa.com) (two acquisitions) · Head of 
 <tr>
 <td>🦞</td>
 <td><a href="https://github.com/drewburchfield/gogcli-safe"><b>gogcli-safe</b></a></td>
-<td>Agent-safe Google Workspace access for <a href="https://github.com/anthropics/openclaw">OpenClaw</a> and similar agents. Compile-time safety profiles physically remove dangerous commands from the binary. They don't get disabled, they don't exist. Fork of <a href="https://github.com/steipete/gogcli">steipete/gogcli</a>.</td>
+<td>Agent-safe Google Workspace access for <a href="https://github.com/openclaw/openclaw">OpenClaw</a> and similar agents. Compile-time safety profiles physically remove dangerous commands from the binary. They don't get disabled, they don't exist. Fork of <a href="https://github.com/steipete/gogcli">steipete/gogcli</a>.</td>
 </tr>
 <tr>
 <td>🔮</td>
