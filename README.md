@@ -53,7 +53,7 @@ Key tools I built for this:
 
 - 🧠 [**braintrust**](https://github.com/drewburchfield/braintrust) — Gemini, Codex, and Claude in parallel on the same prompt. Second opinions on architecture, cross-model code review, parallel research.
 - 🏗️ [**project-bootstrap**](https://github.com/drewburchfield/project-bootstrap) — Auto-detect language, set up quality tooling, `/quality-gate` for agent-driven PR review with Devin.ai.
-- All ten plugins live in [**not-my-job**](https://github.com/drewburchfield/not-my-job), my Claude Code plugin marketplace.
+- Nine more plugins live in [**not-my-job**](https://github.com/drewburchfield/not-my-job), my Claude Code plugin marketplace.
 
 <details>
 <summary><strong>Full plugin list</strong></summary>
@@ -64,7 +64,6 @@ Key tools I built for this:
 |:--:|--------|-------------|
 | 🧠 | [braintrust](https://github.com/drewburchfield/braintrust) | Gemini, Codex, and Claude in parallel for second opinions, architecture review, research |
 | 🏗️ | [project-bootstrap](https://github.com/drewburchfield/project-bootstrap) | Auto-detect language, quality tooling, agent-driven PR review cycles |
-| 🎫 | [helpscout-navigator](https://github.com/drewburchfield/helpscout-navigator) | Guides AI through correct Help Scout MCP tool selection and sequencing |
 | 🤝 | [happenstance-navigator](https://github.com/drewburchfield/happenstance-navigator) | Network intelligence: deep search, warm intros, meeting prep, batch prospecting |
 | 💸 | [subscription-cleanse](https://github.com/drewburchfield/subscription-cleanse) | Subscription audit combining bank CSV parsing with Gmail reconnaissance |
 | 💼 | [linkedin-message-triage](https://github.com/drewburchfield/linkedin-message-triage) | LinkedIn inbox review. Filter solicitations, draft replies |
