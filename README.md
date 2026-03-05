@@ -1,6 +1,6 @@
-# Hi, I'm Drew Burchfield.
+# Hi, I'm Drew 👋
 
-Previously founded [Aloompa](https://aloompa.com) (two acquisitions) · Head of Product at [CUE Audio](https://www.connectwithcue.com/) · VP Product at [WMT Digital](https://wmt.digital)
+Cold-called Bonnaroo in 2009 and launched the world's first event app. Built [@Aloompa](https://aloompa.com). Prev [@CUEAudio](https://www.connectwithcue.com/) [@WMTdigital](https://wmt.digital). AI has me back in the deep end, building and working with teams navigating the same shift. In many ways, it feels a lot like 2009 again.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MCP](https://img.shields.io/badge/MCP_Protocol-6366f1?style=flat-square)
 
@@ -10,7 +10,7 @@ Previously founded [Aloompa](https://aloompa.com) (two acquisitions) · Head of 
 
 <table>
 <tr>
-<td width="30">🎫</td>
+<td width="30"><img src="https://cdn.simpleicons.org/helpscout" width="22" height="22"></td>
 <td width="220"><a href="https://github.com/drewburchfield/help-scout-mcp-server"><b>help-scout-mcp-server</b></a><br><img src="https://api.drewburchfield.com/github/badge/drewburchfield/help-scout-mcp-server" alt="stars"></td>
 <td>Production MCP servers and plugins for Help Scout, in use by enterprise support teams you'd recognize. Works with any MCP-compatible client. One-click install via Desktop Extensions. <a href="https://github.com/drewburchfield/helpscout-navigator">Claude Cowork plugin</a> for guided tool selection and session hooks. <a href="https://www.npmjs.com/package/help-scout-mcp-server">npm</a> · <a href="https://hub.docker.com/r/drewburchfield/help-scout-mcp-server">Docker Hub</a>. Optional PII redaction.</td>
 </tr>
@@ -20,7 +20,7 @@ Previously founded [Aloompa](https://aloompa.com) (two acquisitions) · Head of 
 <td>Agent-safe Google Workspace access for <a href="https://github.com/openclaw/openclaw">OpenClaw</a> and similar agents. Compile-time safety profiles physically remove dangerous commands from the binary. They don't get disabled, they don't exist. Fork of <a href="https://github.com/steipete/gogcli">steipete/gogcli</a>.</td>
 </tr>
 <tr>
-<td>🔮</td>
+<td><img src="https://cdn.simpleicons.org/obsidian" width="22" height="22"></td>
 <td><a href="https://github.com/drewburchfield/obsidian-graph-mcp"><b>obsidian-graph-mcp</b></a></td>
 <td>Personal knowledge base → semantic search engine. Voyage Context-3 embeddings + pgvector. 0.9ms search latency. Multi-hop connection graphs, hub detection, orphan discovery.</td>
 </tr>
@@ -30,7 +30,7 @@ Previously founded [Aloompa](https://aloompa.com) (two acquisitions) · Head of 
 <td>Real-time power outage dashboard for Middle Tennessee Electric. Built post-storm when the official outage map wasn't cutting it. SSE updates, interactive county map, restoration estimates. 16 counties, 359K customers.</td>
 </tr>
 <tr>
-<td>⌨️</td>
+<td><img src="https://cdn.simpleicons.org/things" width="22" height="22"></td>
 <td><a href="https://github.com/drewburchfield/clings"><b>clings</b></a></td>
 <td>Things 3 from the terminal. Natural language, bulk ops, powerful search, stats dashboards, GTD weekly reviews. <a href="https://github.com/drewburchfield/homebrew-tap">Homebrew</a>.</td>
 </tr>
@@ -53,7 +53,7 @@ Key tools I built for this:
 
 - 🧠 [**braintrust**](https://github.com/drewburchfield/braintrust) — Gemini, Codex, and Claude in parallel on the same prompt. Second opinions on architecture, cross-model code review, parallel research.
 - 🏗️ [**project-bootstrap**](https://github.com/drewburchfield/project-bootstrap) — Auto-detect language, set up quality tooling, `/quality-gate` for agent-driven PR review with Devin.ai.
-- Nine more plugins live in [**not-my-job**](https://github.com/drewburchfield/not-my-job), my Claude Code plugin marketplace.
+- Ten more plugins live in [**not-my-job**](https://github.com/drewburchfield/not-my-job), my agentic workflow plugin marketplace.
 
 <details>
 <summary><strong>Full plugin list</strong></summary>
@@ -64,13 +64,15 @@ Key tools I built for this:
 |:--:|--------|-------------|
 | 🧠 | [braintrust](https://github.com/drewburchfield/braintrust) | Gemini, Codex, and Claude in parallel for second opinions, architecture review, research |
 | 🏗️ | [project-bootstrap](https://github.com/drewburchfield/project-bootstrap) | Auto-detect language, quality tooling, agent-driven PR review cycles |
+| 🦞 | [openclaw-1password](https://github.com/drewburchfield/openclaw-1password) | Zero plaintext secrets in OpenClaw with 1Password |
 | 🤝 | [happenstance-navigator](https://github.com/drewburchfield/happenstance-navigator) | Network intelligence: deep search, warm intros, meeting prep, batch prospecting |
+| <img src="https://cdn.simpleicons.org/helpscout" width="22" height="22"> | [helpscout-navigator](https://github.com/drewburchfield/helpscout-navigator) | HelpScout ticket search with bundled MCP server |
 | 💸 | [subscription-cleanse](https://github.com/drewburchfield/subscription-cleanse) | Subscription audit combining bank CSV parsing with Gmail reconnaissance |
-| 💼 | [linkedin-message-triage](https://github.com/drewburchfield/linkedin-message-triage) | LinkedIn inbox review. Filter solicitations, draft replies |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="22" height="22"> | [linkedin-message-triage](https://github.com/drewburchfield/linkedin-message-triage) | LinkedIn inbox review. Filter solicitations, draft replies |
 | 🏢 | [cre-property-research](https://github.com/drewburchfield/cre-property-research) | Commercial real estate market research and tenant prospecting |
-| 📄 | [markdown-to-confluence](https://github.com/drewburchfield/markdown-to-confluence) | Markdown to Confluence Storage Format conversion |
-| 🔐 | [1password-management](https://github.com/drewburchfield/1password-management) | Reference for correct 1Password CLI syntax and field types |
 | 📝 | [readme-craft](https://github.com/drewburchfield/readme-craft) | README writing guidance with structure templates and voice/tone rules |
+| <img src="https://cdn.simpleicons.org/confluence" width="22" height="22"> | [markdown-to-confluence](https://github.com/drewburchfield/markdown-to-confluence) | Markdown to Confluence Storage Format conversion |
+| <img src="https://cdn.simpleicons.org/1password" width="22" height="22"> | [1password-management](https://github.com/drewburchfield/1password-management) | Reference for correct 1Password CLI syntax and field types |
 
 </details>
 
@@ -94,4 +96,4 @@ Key tools I built for this:
 
 **[Aloompa](https://aloompa.com)** (founder) — Built the first mobile app for a music festival in 2009 after cold-calling Bonnaroo. Grew over 15 years into the leading platform for live event fan engagement. Two acquisitions: [CUE Audio](https://www.connectwithcue.com/), then [WMT Digital](https://wmt.digital). [Billboard covered it](https://www.billboard.com/pro/wmt-digital-buys-aloompa-mobile-app-provider-live-events/).
 
-**[CUE Audio](https://www.connectwithcue.com/)** (Head of Product) · **[WMT Digital](https://wmt.digital)** (VP Product) — Product leadership through both acquisitions. The current AI moment feels a lot like 2009 again.
+**[CUE Audio](https://www.connectwithcue.com/)** (Head of Product) · **[WMT Digital](https://wmt.digital)** (VP Product) — Product leadership through both acquisitions.
