@@ -30,9 +30,9 @@ Cold-called Bonnaroo in 2009 and launched the world's first event app. Built [@A
 <td>Real-time power outage dashboard for Middle Tennessee Electric. Built post-storm when the official outage map wasn't cutting it. SSE updates, interactive county map, restoration estimates. 16 counties, 359K customers.</td>
 </tr>
 <tr>
-<td><img src="https://cdn.simpleicons.org/things" width="22" height="22"></td>
-<td><a href="https://github.com/drewburchfield/clings"><b>clings</b></a></td>
-<td>Things 3 from the terminal. Natural language, bulk ops, powerful search, stats dashboards, GTD weekly reviews. <a href="https://github.com/drewburchfield/homebrew-tap">Homebrew</a>.</td>
+<td><img src="https://raw.githubusercontent.com/drewburchfield/macos-mic-keepwarm/main/assets/campfire.png" width="22" height="22"></td>
+<td><a href="https://github.com/drewburchfield/macos-mic-keepwarm"><b>macos-mic-keepwarm</b></a><br><img src="https://api.drewburchfield.com/github/badge/drewburchfield/macos-mic-keepwarm" alt="stars"></td>
+<td>Fixes 2-5s push-to-talk activation delay on macOS. Keeps mic hardware awake for instant voice transcription with AirPods, Bluetooth headsets, and built-in mic.</td>
 </tr>
 <tr>
 <td>🎭</td>
@@ -80,7 +80,7 @@ Key tools I built for this:
 
 | | Repo | What It Does |
 |:--:|------|-------------|
-| 🎙️ | [macos-mic-keepwarm](https://github.com/drewburchfield/macos-mic-keepwarm) | Fixes 2-5s push-to-talk activation delay on macOS. Keeps mic hardware awake for instant voice transcription. |
+| <img src="https://cdn.simpleicons.org/things" width="22" height="22"> | [clings](https://github.com/drewburchfield/clings) | Things 3 from the terminal. Natural language, bulk ops, powerful search, stats dashboards, GTD weekly reviews. [Homebrew](https://github.com/drewburchfield/homebrew-tap). |
 | 🔇 | [whispertron](https://github.com/drewburchfield/whispertron) | Privacy-first audio transcription. whisper.cpp + Apple Silicon. Nothing leaves your machine. |
 | ⚡ | [shortcuts-toolkit](https://github.com/drewburchfield/shortcuts-toolkit) | Programmatic Apple Shortcuts via binary plist reverse-engineering. |
 | 🛡️ | [vpn-recon](https://github.com/drewburchfield/vpn-recon) | Route recon through VPN with 5-layer security defense and 11-test harness. |
