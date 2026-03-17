@@ -30,7 +30,7 @@ Cold-called Bonnaroo in 2009 and launched the world's first event app. Built [@A
 <td>Real-time power outage dashboard for Middle Tennessee Electric. Built post-storm when the official outage map wasn't cutting it. SSE updates, interactive county map, restoration estimates. 16 counties, 359K customers.</td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/drewburchfield/macos-mic-keepwarm/main/assets/campfire.png" width="22" height="22"></td>
+<td><img src="https://raw.githubusercontent.com/drewburchfield/macos-mic-keepwarm/master/assets/campfire.png" width="22" height="22"></td>
 <td><a href="https://github.com/drewburchfield/macos-mic-keepwarm"><b>macos-mic-keepwarm</b></a><br><img src="https://api.drewburchfield.com/github/badge/drewburchfield/macos-mic-keepwarm" alt="stars"></td>
 <td>Fixes 2-5s push-to-talk activation delay on macOS. Keeps mic hardware awake for instant voice transcription with AirPods, Bluetooth headsets, and built-in mic.</td>
 </tr>
