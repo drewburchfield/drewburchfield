@@ -25,9 +25,9 @@ Cold-called Bonnaroo in 2009 and launched the world's first event app. Built [@A
 <td>Personal knowledge base → semantic search engine. Voyage Context-3 embeddings + pgvector. 0.9ms search latency. Multi-hop connection graphs, hub detection, orphan discovery.</td>
 </tr>
 <tr>
-<td>⚡</td>
-<td><a href="https://mte.drewburchfield.com"><b>MTE Grid Watch</b></a></td>
-<td>Real-time power outage dashboard for Middle Tennessee Electric. Built post-storm when the official outage map wasn't cutting it. SSE updates, interactive county map, restoration estimates. 16 counties, 359K customers.</td>
+<td><img src="https://cdn.simpleicons.org/phoenixframework" width="22" height="22"></td>
+<td><a href="https://github.com/drewburchfield/kindling"><b>kindling</b></a></td>
+<td>Turn raw thoughts into written work. Blends Zettelkasten, CODE, and PARA with Claude Code as the discipline layer. AI thinks with you, extracts and organizes. You write.</td>
 </tr>
 <tr>
 <td><img src="https://raw.githubusercontent.com/drewburchfield/macos-mic-keepwarm/master/assets/campfire.png" width="22" height="22"></td>
@@ -45,7 +45,7 @@ Cold-called Bonnaroo in 2009 and launched the world's first event app. Built [@A
 
 [**agentic-setup**](https://github.com/drewburchfield/agentic-setup) — Two years of daily work with AI coding agents, distilled into a reproducible system.
 
-Four harnesses share one skill library. Three models review every hard problem in parallel. Security gates run at every commit and every PR. A personal knowledge vault with semantic search is wired into every session. The full stack is documented and reproducible.
+Four harnesses share one skill library. Three models review every hard problem in parallel. Security gates run at every commit and every PR. [Kindling](https://github.com/drewburchfield/kindling) (personal knowledge vault with semantic search) is wired into every session. The full stack is documented and reproducible.
 
 - [**Workflows**](https://github.com/drewburchfield/agentic-setup/blob/master/workflows/README.md) · [**77 skills**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/skills.md) · [**65 plugins**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/plugins.md) · [**10+ MCP servers**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/mcp-servers.md) · [**CLI tools**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/clis.md) · [**Apps & infra**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/apps.md)
 
@@ -85,6 +85,7 @@ Key tools I built for this:
 | ⚡ | [shortcuts-toolkit](https://github.com/drewburchfield/shortcuts-toolkit) | Programmatic Apple Shortcuts via binary plist reverse-engineering. |
 | 🛡️ | [vpn-recon](https://github.com/drewburchfield/vpn-recon) | Route recon through VPN with 5-layer security defense and 11-test harness. |
 | 💬 | [claude-code-chat-explorer](https://github.com/drewburchfield/claude-code-chat-explorer) | Web UI for Claude Code conversation history. SQLite FTS5, Docker, WebSocket. |
+| ⚡ | [MTE Grid Watch](https://mte.drewburchfield.com) | Real-time power outage dashboard for Middle Tennessee Electric. SSE updates, interactive county map, restoration estimates. |
 
 ## ✍️ Speaking & Writing
 
