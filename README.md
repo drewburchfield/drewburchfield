@@ -20,7 +20,7 @@ Cold-called Bonnaroo in 2009 and launched the world's first event app. Built [@A
 <td>Agent-safe Google Workspace access for <a href="https://github.com/openclaw/openclaw">OpenClaw</a> and similar agents. Compile-time safety profiles physically remove dangerous commands from the binary. They don't get disabled, they don't exist. Fork of <a href="https://github.com/steipete/gogcli">steipete/gogcli</a>.</td>
 </tr>
 <tr>
-<td><img src="https://cdn.simpleicons.org/phoenixframework/FF4500" width="26" height="26"></td>
+<td>🪵</td>
 <td><a href="https://github.com/drewburchfield/kindling"><b>kindling</b></a></td>
 <td>Turn raw thoughts into written work. Blends Zettelkasten, CODE, and PARA with Claude Code as the discipline layer. AI thinks with you, extracts and organizes. You write.</td>
 </tr>
