@@ -26,7 +26,7 @@ Cold-called Bonnaroo in 2009 and launched the world's first event app. Built [@A
 </tr>
 <tr>
 <td><img src="https://cdn.simpleicons.org/obsidian" width="22" height="22"></td>
-<td><a href="https://github.com/drewburchfield/obsidian-graph-mcp"><b>obsidian-graph-mcp</b></a></td>
+<td><a href="https://github.com/drewburchfield/obsidian-graph"><b>obsidian-graph</b></a></td>
 <td>Personal knowledge base → semantic search engine. Voyage Context-3 embeddings + pgvector. 0.9ms search latency. Multi-hop connection graphs, hub detection, orphan discovery.</td>
 </tr>
 <tr>
