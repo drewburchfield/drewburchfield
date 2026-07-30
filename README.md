@@ -11,50 +11,53 @@ Cold-called Bonnaroo in 2009 and launched the world's first event app. Built [@A
 <table>
 <tr>
 <td width="30"><img src="https://cdn.simpleicons.org/helpscout" width="22" height="22"></td>
-<td width="220"><a href="https://github.com/drewburchfield/help-scout-mcp-server"><b>help-scout-mcp-server</b></a><br><img src="https://api.drewburchfield.com/github/badge/drewburchfield/help-scout-mcp-server" alt="stars"></td>
+<td width="200"><a href="https://github.com/drewburchfield/help-scout-mcp-server"><b>help-scout-mcp-server</b></a></td>
+<td width="60"><img src="https://api.drewburchfield.com/github/badge/drewburchfield/help-scout-mcp-server" alt="stars"></td>
 <td>Production MCP servers and plugins for Help Scout, in use by enterprise support teams you'd recognize. Works with any MCP-compatible client. One-click install via Desktop Extensions. <a href="https://github.com/drewburchfield/helpscout-navigator">Claude Cowork plugin</a> for guided tool selection and session hooks. <a href="https://www.npmjs.com/package/help-scout-mcp-server">npm</a> · <a href="https://hub.docker.com/r/drewburchfield/help-scout-mcp-server">Docker Hub</a>. Optional PII redaction.</td>
 </tr>
 <tr>
 <td><img src="https://raw.githubusercontent.com/drewburchfield/macos-mic-keepwarm/master/assets/campfire.png" width="22" height="22"></td>
-<td><a href="https://github.com/drewburchfield/macos-mic-keepwarm"><b>macos-mic-keepwarm</b></a><br><img src="https://api.drewburchfield.com/github/badge/drewburchfield/macos-mic-keepwarm" alt="stars"></td>
+<td><a href="https://github.com/drewburchfield/macos-mic-keepwarm"><b>macos-mic-keepwarm</b></a></td>
+<td><img src="https://api.drewburchfield.com/github/badge/drewburchfield/macos-mic-keepwarm" alt="stars"></td>
 <td>Fixes 2-5s push-to-talk activation delay on macOS. Keeps mic hardware awake for instant voice transcription with AirPods, Bluetooth headsets, and built-in mic.</td>
 </tr>
 <tr>
 <td>⚡</td>
-<td><a href="https://github.com/drewburchfield/shortcuts-toolkit"><b>shortcuts-toolkit</b></a><br><img src="https://api.drewburchfield.com/github/badge/drewburchfield/shortcuts-toolkit" alt="stars"></td>
+<td><a href="https://github.com/drewburchfield/shortcuts-toolkit"><b>shortcuts-toolkit</b></a></td>
+<td><img src="https://api.drewburchfield.com/github/badge/drewburchfield/shortcuts-toolkit" alt="stars"></td>
 <td>Programmatic Apple Shortcuts via binary plist reverse-engineering. Generate, inspect, and modify Shortcuts without ever opening the app.</td>
 </tr>
 <tr>
 <td><img src="https://cdn.simpleicons.org/obsidian" width="22" height="22"></td>
-<td><a href="https://github.com/drewburchfield/obsidian-graph"><b>obsidian-graph</b></a><br><img src="https://api.drewburchfield.com/github/badge/drewburchfield/obsidian-graph" alt="stars"></td>
-<td>Personal knowledge base → semantic search engine. Voyage Context-3 embeddings + pgvector. 0.9ms search latency. Multi-hop connection graphs, hub detection, orphan discovery.</td>
+<td><a href="https://github.com/drewburchfield/obsidian-graph"><b>obsidian-graph</b></a></td>
+<td><img src="https://api.drewburchfield.com/github/badge/drewburchfield/obsidian-graph" alt="stars"></td>
+<td>Personal knowledge base → semantic search engine. Voyage-4 context embeddings + pgvector. 0.9ms search latency. Multi-hop connection graphs, hub detection, orphan discovery.</td>
 </tr>
 <tr>
 <td>💬</td>
-<td><a href="https://github.com/drewburchfield/claude-code-chat-explorer"><b>claude-code-chat-explorer</b></a><br><img src="https://api.drewburchfield.com/github/badge/drewburchfield/claude-code-chat-explorer" alt="stars"></td>
+<td><a href="https://github.com/drewburchfield/claude-code-chat-explorer"><b>claude-code-chat-explorer</b></a></td>
+<td><img src="https://api.drewburchfield.com/github/badge/drewburchfield/claude-code-chat-explorer" alt="stars"></td>
 <td>Web UI for Claude Code conversation history. SQLite FTS5, Docker, WebSocket.</td>
 </tr>
 <tr>
 <td><img src="https://em-content.zobj.net/source/apple/391/wood_1fab5.png" width="22" height="22"></td>
 <td><a href="https://github.com/drewburchfield/kindling"><b>kindling</b></a></td>
+<td></td>
 <td>Turn raw thoughts into written work. Blends Zettelkasten, CODE, and PARA with Claude Code as the discipline layer. AI thinks with you, extracts and organizes. You write.</td>
 </tr>
 <tr>
 <td>🦞</td>
 <td><a href="https://github.com/drewburchfield/gogcli-safe"><b>gogcli-safe</b></a></td>
+<td></td>
 <td>Agent-safe Google Workspace access for <a href="https://github.com/openclaw/openclaw">OpenClaw</a> and similar agents. Compile-time safety profiles physically remove dangerous commands from the binary. They don't get disabled, they don't exist. Fork of <a href="https://github.com/steipete/gogcli">steipete/gogcli</a>.</td>
 </tr>
 </table>
 
 ## 🤖 Agentic Development
 
-[**agentic-setup**](https://github.com/drewburchfield/agentic-setup) — Two years of daily work with AI coding agents, distilled into a reproducible system.
+[**agentic-setup**](https://github.com/drewburchfield/agentic-setup) — Two years of daily work with AI coding agents, distilled into a reproducible system. Five harnesses share one skill library, five AI CLIs review every hard problem in parallel, security gates run at every commit and PR, and [Kindling](https://github.com/drewburchfield/kindling) is wired into every session.
 
-Five harnesses share one skill library. Five AI CLIs review every hard problem in parallel. Security gates run at every commit and every PR. [Kindling](https://github.com/drewburchfield/kindling) (personal knowledge vault with semantic search) is wired into every session. The full stack is documented and reproducible.
-
-- [**Workflows**](https://github.com/drewburchfield/agentic-setup/blob/master/workflows/README.md) · [**74 plugins**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/plugins.md) · [**16 keep-set skills**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/skills.md) · [**12+ MCP servers**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/mcp-servers.md) · [**CLI tools**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/clis.md) · [**Apps & infra**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/apps.md)
-
-Key tools I built for this:
+[**Workflows**](https://github.com/drewburchfield/agentic-setup/blob/master/workflows/README.md) · [**74 plugins**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/plugins.md) · [**16 keep-set skills**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/skills.md) · [**12+ MCP servers**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/mcp-servers.md) · [**CLI tools**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/clis.md) · [**Apps & infra**](https://github.com/drewburchfield/agentic-setup/blob/master/inventory/apps.md)
 
 - 🧠 [**braintrust**](https://github.com/drewburchfield/braintrust) — Codex, Grok, Antigravity, OpenCode, and Claude in parallel on the same prompt. Second opinions on architecture, cross-model code review, parallel research.
 - 🏗️ [**project-bootstrap**](https://github.com/drewburchfield/project-bootstrap) — Auto-detect language, set up quality tooling, `/quality-gate` for agent-driven PR review with Devin.ai.
